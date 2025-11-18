@@ -9,7 +9,7 @@
   ```
 - install dotnet aspire. You can install it using the following command:
   ```
-  cli dotnet tool install -g Aspire.Cli
+  dotnet tool install -g Aspire.Cli
   ```
 - check if aspire is installed correctly by running:
   ```
